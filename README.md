@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohamed%20Hamed&fontSize=50&animation=fadeIn&fontAlignY=38&desc=🚀%20Tech%20Problem%20Solver%20|%20Automation%20Enthusiast%20|%20Product%20Builder&descAlignY=60&descAlign=50" alt="Header Banner" width="100%" />
+  <a href="https://www.linkedin.com/in/mohammed-hamed-2007-space">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohamed%20Hamed&fontSize=50&animation=fadeIn&fontAlignY=38&desc=🚀%20Tech%20Problem%20Solver%20|%20Automation%20Enthusiast%20|%20Product%20Builder&descAlignY=60&descAlign=50" alt="Header Banner" width="100%" />
+  </a>
 </div>
 
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
+  <a href="https://www.linkedin.com/in/mohammed-hamed-2007-space">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe;Creating+efficient+solutions;Automating+repetitive+tasks" alt="Typing SVG" />
   </a>
   <br>
@@ -60,7 +62,7 @@
   <br>
 </div>
 
-#### 🎯 [Vasto Focus] (Link to live site)
+#### 🎯 [Vasto Focus](https://www.linkedin.com/in/mohammed-hamed-2007-space)
 > A beautifully designed, full-featured Pomodoro timer and productivity web app. (Closed Source - Live Product).
 
 #### 🤖 Social Media & Comms Automation (Open Source)
