@@ -14,7 +14,7 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/hvRJpMWee1VqBEnTjX/giphy.gif" width="30" style="vertical-align: middle;"><em>Hi, I'm Mohamed Hamed 👋</em>
+  <img src="[https://media.giphy.com/media/hvRJpMWee1VqBEnTjX/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGwzZDJ5bzRtOHpuZ2M5M2R3djBjY2RvZGF6eWdwNHg4N3I4bTM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)" width="30" style="vertical-align: middle;"><em>Hi, I'm Mohamed Hamed 👋</em>
   <br><br>
   <em>I don't just write code; I build digital solutions that save time, automate repetitive tasks, and bridge the gap between different systems. With a background in marketing and law, I approach technical challenges with a business-first mindset.</em>
   <br><br>
