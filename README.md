@@ -1,25 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Mohamed%20Hamed%20👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=🚀%20Tech%20Problem%20Solver%20|%20Automation%20Enthusiast%20|%20Product%20Builder&descAlignY=60&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohamed%20Hamed&fontSize=50&animation=fadeIn&fontAlignY=38&desc=🚀%20Tech%20Problem%20Solver%20|%20Automation%20Enthusiast%20|%20Product%20Builder&descAlignY=60&descAlign=50" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
   <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe;Creating+efficient+solutions;Automating+repetitive+tasks" alt="Typing SVG" />
+  </a>
+  <br>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/hvRJpMWee1VqBEnTjX/giphy.gif" width="30" style="vertical-align: middle;"><em>Hi, I'm Mohamed Hamed 👋</em>
+  <br><br>
   <em>I don't just write code; I build digital solutions that save time, automate repetitive tasks, and bridge the gap between different systems. With a background in marketing and law, I approach technical challenges with a business-first mindset.</em>
   <br><br>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing divider">
 
-### 🛠️ What I Do:
-- **Workflow Automation:** Building bots and scripts to automate daily operations (Selenium, Python, Node.js).
-- **System Integration:** Connecting APIs across platforms (Telegram, WhatsApp, Facebook, LinkedIn).
-- **Productivity Tools:** Developing apps that help people focus and get things done.
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3 style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35" height="35" style="margin-right: 10px;"/>
+        What I Do:
+      </h3>
+      <ul>
+        <li><b>Workflow Automation:</b> Building bots and scripts to automate daily operations (Selenium, Python, Node.js).</li>
+        <li><b>System Integration:</b> Connecting APIs across platforms (Telegram, WhatsApp, Facebook, LinkedIn).</li>
+        <li><b>Productivity Tools:</b> Developing apps that help people focus and get things done.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3 style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" style="margin-right: 10px;"/>
+        Tech Stack & Tools:
+      </h3>
+      <ul>
+        <li><b>Languages:</b> Python, JavaScript (Node.js), HTML/CSS</li>
+        <li><b>Libraries/Frameworks:</b> Selenium, Baileys (WhatsApp Web API), python-telegram-bot, Express</li>
+        <li><b>Concepts:</b> API Integration, Web Scraping, Process Automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing divider">
 
-### 🌟 Featured Projects:
+<br>
+<div align="center">
+  <h3 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="35" height="35" style="margin-right: 10px;"/>
+    Featured Projects:
+  </h3>
+  <br>
+</div>
 
 #### 🎯 [Vasto Focus] (Link to live site)
 > A beautifully designed, full-featured Pomodoro timer and productivity web app. (Closed Source - Live Product).
@@ -32,22 +71,16 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing divider">
 
-### 💻 Tech Stack & Tools:
-**Languages:** Python, JavaScript (Node.js), HTML/CSS  
-**Libraries/Frameworks:** Selenium, Baileys (WhatsApp Web API), python-telegram-bot, Express  
-**Concepts:** API Integration, Web Scraping, Process Automation  
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-
-<br>
-
+<br><br>
 <div align="center">
-  <h3>📫 Let's Connect:</h3>
+  <h3 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="40" height="40" style="margin-right: 10px;"/>
+    Let's Connect:
+  </h3>
+  <br>
   <a href="https://www.linkedin.com/in/mohammed-hamed-2007-space">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge" height="40" />
   </a>
 </div>
